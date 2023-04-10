@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m @ivan-rybachok<br>👀 I’m interested in Full-Stack Development<br>🌱 I’m currently learning React JS/TS, ASP.NET and Laravel<br>📫 You can reach me through my portfolio website https://ivanrybachok.vercel.app/
+👋 Hi, I’m @ivan-rybachok<br>👀 I’m interested in Full-Stack Development<br>🌱 I’m currently learning React JS/TS and NEXT JS<br>📫 You can reach me through my portfolio website https://ivanrybachok.vercel.app/
 
 
 ## 🌐 Socials:
